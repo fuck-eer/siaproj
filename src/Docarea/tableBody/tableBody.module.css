@@ -1,0 +1,11 @@
+.tableBody{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    align-items: center;
+    box-sizing: border-box;
+    width: 95%;
+    height: 80vh;
+    border: 3px solid #ddd;
+    overflow-y: scroll;
+}

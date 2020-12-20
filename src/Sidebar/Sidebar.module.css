@@ -1,0 +1,20 @@
+.Sidebar{
+    width: 20%;
+    height: 100vh;
+background-color: #eee;
+}
+.filterlogin{
+    width: 90%;
+    margin:  auto;
+    height: 95vh;
+    display:flex;
+    flex-flow:column nowrap;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.loginbutt{
+width: 80px;
+height: 80px;
+background-color: #ddd;
+border-radius: 50%;
+}

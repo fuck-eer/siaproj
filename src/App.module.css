@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  font-family: Helvetica,monospace;
+  display: flex;
+}
+.Content{
+  width:100%;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+}
+
+
+

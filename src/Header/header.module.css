@@ -1,0 +1,31 @@
+header{
+    top: 0;
+    left:0;
+    position: fixed;
+    width: 100%;
+background-color: black;
+
+}
+
+nav{
+width: 80%;
+margin: auto;
+padding: 15px;
+}
+ul{
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+li{
+color: #aaa;
+list-style: none;
+font-size: 16px;
+
+}
+
+li:hover{
+cursor: pointer;
+    color: #fff;
+    transition: all 0.3s;
+}
